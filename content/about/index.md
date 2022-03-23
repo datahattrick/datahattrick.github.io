@@ -1,3 +1,9 @@
++++
+title = "About"
+date = "2022-03-23"
+author = "Heath Taylor"
++++
+
 # Kia ora!
 
 Welcome to my blog, a little area on the internet where I jot little things here and there.
